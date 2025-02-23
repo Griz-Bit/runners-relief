@@ -1,5 +1,5 @@
 # Runner's Relief
-LiveAI 2025 Project
+## LiveAI 2025 Project
 Focused on PacePal, a chatbot powered by ChatGPT 3.5 Turbo
 
 # Summary: 
