@@ -1,0 +1,11 @@
+# All libraries required to create database
+langchain
+langchain-openai
+langchain-community
+openai
+unstructured
+chromadb
+
+# All libraries to run the app
+streamlit
+# and most from above
